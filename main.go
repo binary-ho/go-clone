@@ -1,9 +1,6 @@
 package main
 
-import (
-	"clone-project/banking"
-)
-
 func main() {
-	banking.Run()
+	//banking.Run()
+	//url_checker.Run()
 }
